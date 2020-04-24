@@ -11,13 +11,13 @@ Team Members -
     
     Bhadra Giri Resmi
     
-    Sumanth Reddy
+    Sumanth Reddy K V
     
     Omanshu Mahawar
     
     Shrvan Warke
     
-    Jagan Babu
+    Jagan Babu K
    
    
 Project Description -
