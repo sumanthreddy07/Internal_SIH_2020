@@ -1,0 +1,8 @@
+Other Projects : 
+https://www.sciencedirect.com/science/article/pii/S0034425714000194
+https://www.sciencedirect.com/science/article/pii/S111098231400026X#f0015
+
+Importing data set: 
+https://stackoverflow.com/questions/7569553/working-with-tiffs-import-export-in-python-using-numpy
+
+
