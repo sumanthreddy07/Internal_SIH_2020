@@ -6,17 +6,18 @@ Team Name - Hex Clan
 
 
 Team Members - 
-    Bhadra Giri Resmi
-    
-    Jagan Babu
-    
-    Omanshu Mahawar
     
     Shreeya Sanjay Sand (Team Lead)
     
-    Shrvan Warke
+    Bhadra Giri Resmi
     
     Sumanth Reddy
+    
+    Omanshu Mahawar
+    
+    Shrvan Warke
+    
+    Jagan Babu
    
    
 Project Description -
